@@ -2,6 +2,8 @@
 
 Group Number: 9
 
+Take a look at the demo on [Youtube](https://www.youtube.com/watch?v=Qgmv9lJLm-o)
+
 ## Team Members:
 | Name |  Quest ID  | GitHub Username |
 |:-----|:--------:|------:|
@@ -12,7 +14,6 @@ Group Number: 9
 | Dat Vu | d6vu | DatVu06 |
 | Fares Al-Tantawi | faltanta | FaresAT |
 
-https://www.youtube.com/watch?v=Qgmv9lJLm-o
 
 Java SDK: https://jdk.java.net/21/
 Android Version: 12+
